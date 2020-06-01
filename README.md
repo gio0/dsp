@@ -68,4 +68,4 @@ Completing the pre-work is essential to obtaining the foundational knowledge nec
 Yes
 
 #### Q:  Can I ask for hints for python questions?
-Yes
+Yes👍👍👍👍👍👍👍
