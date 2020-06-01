@@ -146,6 +146,10 @@ Nice.
 > Let's save the output of the `curl` command to a file called `data.txt`. How
 would we do that?
 
+```bash
+curl -k https://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/ > data.txt
+```
+
 Now that we have the data file, let's learn how to manipulate files.
 
 ### Copying, Moving, and Removing Files
